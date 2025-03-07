@@ -1,0 +1,23 @@
+{
+  "name": "toters/wilgucki-csv",
+  "description": "Laravel 5 package for writing and reading CSV files",
+  "keywords": ["Laravel", "csv"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maciej Wilgucki",
+      "email": "mwilgucki@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "require-dev": {
+    "mikey179/vfsStream": "^1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wilgucki\\Csv\\": "src"
+    }
+  }
+}
