@@ -1,5 +1,5 @@
 {
-  "name": "toters/wilgucki-csv",
+  "name": "toters-eng/twilgucki-csv",
   "description": "Laravel 5 package for writing and reading CSV files",
   "keywords": ["Laravel", "csv"],
   "license": "MIT",
